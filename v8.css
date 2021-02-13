@@ -1,0 +1,13 @@
+#banner {
+  background-image: url("banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  -ms-behavior: url("backgroundsize.min.htc"); }
+  #banner .inner {
+    background: #341b2b; }
+
+#cta {
+  background-image: url("banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  -ms-behavior: url("backgroundsize.min.htc"); }
